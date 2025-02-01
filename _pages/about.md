@@ -16,7 +16,7 @@ Previously, I completed my BSc in Electrical Engineering at [Makerere University
 In October 2022, I trained in Power Quality and System Stability at the [Kafue Gorge Regional Training Center](https://www.kgrtc.org.zm/) in Zambia. 
 In Summer 2024, I participated in the prestigious [CIFAR Deep Learning and Reinforcement Summer School](https://dlrl.ca/), hosted at the Vector Insitute in Toronto. 
 
-In my spare time, I find joy in visiting historical and contemporary art museums , immersing myself in different genres of music, and culinary tourism. I am also a hobby reader- my current read: [Unbowed: A memoir- Wangari Maathai](https://www.goodreads.com/book/show/201111.Unbowed).
+In my spare time, I find joy in visiting historical and contemporary art museums, music and hobby reading. My current (leisure) read: [Unbowed: A memoir- Wangari Maathai](https://www.goodreads.com/book/show/201111.Unbowed).
 
 
 
