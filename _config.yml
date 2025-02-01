@@ -21,7 +21,7 @@ repository               : "simanirakiza.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my photo.jpeg"
   name             : "Sylvia Imanirakiza"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Computer Science PhD student at University of Massachusetts Amherst"
