@@ -20,8 +20,6 @@ In my spare time, I find joy in visiting historical and contemporary art museums
 
 01/2025 - 🚀 I'll be attending the 2025 CRA-WP Grad Cohort for Women, this April.
 
-11/2024 - Excited to be joining the Voices of Data Science 2025 organizing team as the Communications Lead.
-
 10/2024 - Attended the [Grace Hopper Conference 2024](https://ghc.anitab.org/). Thanks to UMass CICS for the sponsorship.
 
 08/2024 - 🎤 Invited to speak as part of panel for PhD Life in Amherst by the Africa Graduate Students Association, UMass Amherst.
