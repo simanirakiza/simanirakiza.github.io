@@ -13,10 +13,18 @@ I conduct research as part of the [STIMA Lab](https://websites.umass.edu/jtaneja
  
 Previously, I completed my BSc in Electrical Engineering at [Makerere University, Uganda](https://mak.ac.ug/). During my undergraduate, I worked on applying deep learning for enhancing ultrasound guided minimally invasive procedures and prostate cancer severity prediction within the [Marconi Machine Laboratory](https://marconilab.org/), advised by [Dr. Cosmas Mwikirize](https://scholar.google.com/citations?user=9rlsHzoAAAAJ&hl=en) and [Dr. Andrew Katumba](https://scholar.google.be/citations?user=APqcOhAAAAAJ&hl=en). My undergraduate thesis, that focused on electric grid distribution expansion planning, was advised by [Dr Jonathan Serugunda](https://scholar.google.com/citations?user=oeuuubUAAAAJ&hl=en) and Dr Milton Edimu.
 
-In October 2022, I trained in Power Quality and System Stability at the [Kafue Gorge Regional Training Center](https://www.kgrtc.org.zm/) in Zambia. 
-In Summer 2024, I participated in the prestigious [CIFAR Deep Learning and Reinforcement Summer School](https://dlrl.ca/), hosted at the Vector Insitute in Toronto. 
 
 In my spare time, I find joy in visiting historical and contemporary art museums, music and hobby reading. My current (leisure) read: [Unbowed: A memoir- Wangari Maathai](https://www.goodreads.com/book/show/201111.Unbowed).
+
+## News
+
+01/2025 - 🚀 I'll be attending the 2025 CRA-WP Grad Cohort for Women, this April.
+11/2024 - Excited to be joining the Voices of Data Science 2025 organizing team as the Communications Lead.
+10/2024 - Attended the Grace Hopper Conference 2024. Thanks to UMass CICS for the sponsorship.
+08/2024 - 🎤 Invited to speak as part of panel for PhD Life in Amherst by the Africa Graduate Students Association, UMass Amherst.
+07/2024 - 🚀 Honored to receive the CIFAR AI Inclusive Scholarship to attend the CIFAR Deep Learning Summer School 2024 at the Vector Institute in Toronto.
+04/2024 - Participated in the [Climate Reality Workshop 2024](https://www.climaterealityproject.org/new-york), New York
+
 
 
 
