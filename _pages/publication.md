@@ -8,9 +8,9 @@ author_profile: true
 ## Publications
 
 {% for pub in site.data.publications %}
-- **Title:** [{{ pub.title }}]({{ pub.link }})  
-  {{ pub.venue }}, {{ pub.year }} 
-  **Authors:** {{ pub.authors | join: ', ' }}  
+- [{{ pub.title }}]({{ pub.link }})  
+  {{ pub.venue }}, {{ pub.year }}  
+  {{ pub.authors | join: ', ' }}  
   [View on Google Scholar]({{ pub.link }})  
   ---
 {% endfor %}
