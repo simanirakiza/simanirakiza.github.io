@@ -9,8 +9,7 @@ author_profile: true
 
 {% for pub in site.data.publications %}
 - **Title:** [{{ pub.title }}]({{ pub.link }})  
-  **Year:** {{ pub.year }}  
-  **Venue:** {{ pub.venue }}  
+  {{ pub.venue }}, {{ pub.year }} 
   **Authors:** {{ pub.authors | join: ', ' }}  
   [View on Google Scholar]({{ pub.link }})  
   ---
