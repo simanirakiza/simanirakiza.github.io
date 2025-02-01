@@ -11,6 +11,7 @@ scholarly.fill(author, sections=["publications"])
 # Extract publication details
 publications = []
 for pub in author['publications']:
+    print(pub)
     pub_details = {
         "title": pub.get('bib', {}).get('title', 'N/A'),
         "year": pub.get('bib', {}).get('pub_year', 'N/A'),
