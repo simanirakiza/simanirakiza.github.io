@@ -12,5 +12,4 @@ author_profile: true
   {{ pub.venue }}, {{ pub.year }}  
   {{ pub.authors | join: ', ' }}  
   [View on Google Scholar]({{ pub.link }})  
-  ---
 {% endfor %}
