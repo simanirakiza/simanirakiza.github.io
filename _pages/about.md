@@ -22,7 +22,7 @@ In my spare time, I find joy in visiting historical and contemporary art museums
 
 10/2024 - Attended the [Grace Hopper Conference 2024](https://ghc.anitab.org/). Thanks to UMass CICS for the sponsorship.
 
-08/2024 - 🎤 Invited to speak as part of panel for PhD Life in Amherst by the Africa Graduate Students Association, UMass Amherst.
+08/2024 - 🎤 Invited to speak as part of an orientation panel for Adjusting PhD Life in Amherst by the Africa Graduate Students Association, UMass Amherst.
 
 07/2024 - 🚀 Honored to receive the CIFAR AI Inclusive Scholarship to attend the [CIFAR Deep Learning Summer School](https://dlrl.ca/) 2024 at the Vector Institute in Toronto.
 
