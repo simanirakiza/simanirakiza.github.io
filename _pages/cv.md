@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-You can view or download my Resume [here](simanirakiza.github.io/files/Imanirakiza_Resume_version.pdf).
+You can view or download my Resume [here](Imanirakiza_Resume_version.pdf).
 
