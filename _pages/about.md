@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student (MS/PhD track) in Computer Science  at [UMass Amherst](https://www.cics.umass.edu/). 
-
-I conduct research as part of the [STIMA Lab](https://websites.umass.edu/jtaneja/) (Systems Towards Infrastructure Measurement and Analytics) and the [e-GUIDE Initiative](https://eguide.io/) (Electricity Growth and Use in Developing Economies). I am fortunately advised by [Prof. Jay Taneja](https://websites.umass.edu/jtaneja/). My research interests are broadly computational science for social good. I'm currently working on computational imaging for electric power quality measurement. 
+I am a third year MS/PhD student in Computer Science  at [UMass Amherst](https://www.cics.umass.edu/). I am fortunately advised by [Prof. Jay Taneja](https://websites.umass.edu/jtaneja/) as part of the [STIMA Lab](https://websites.umass.edu/jtaneja/) (Systems Towards Infrastructure Measurement and Analytics) and the [e-GUIDE Initiative](https://eguide.io/) (Electricity Growth and Use in Developing Economies). My research areas are machine learning for social good and public infrastructure analytics + urban data science.  I'm currently working on computational imaging for electric power quality measurement. 
  
-I got my BSc in Electrical Engineering at [Makerere University, Uganda](https://mak.ac.ug/). During this time, I contributed to research on applying machine learning for medical imaging within the [Marconi Machine Laboratory](https://marconilab.org/), advised by [Dr. Cosmas Mwikirize](https://scholar.google.com/citations?user=9rlsHzoAAAAJ&hl=en) and [Dr. Andrew Katumba](https://scholar.google.be/citations?user=APqcOhAAAAAJ&hl=en). During my PhD, I have interned at Los Alamos National Laboratory (2025)
+Prior to my PhD, I received my BSc in Electrical Engineering at [Makerere University, Uganda](https://mak.ac.ug/) where I worked as an undergraduate researcher at [Marconi Machine Laboratory](https://marconilab.org/), advised by [Dr. Cosmas Mwikirize](https://scholar.google.com/citations?user=9rlsHzoAAAAJ&hl=en) and [Dr. Andrew Katumba](https://scholar.google.be/citations?user=APqcOhAAAAAJ&hl=en). 
+
+During my PhD, I have interned at Los Alamos National Laboratory (2025)
 
 <!-- In my spare time, I find joy in visiting historical and contemporary art museums, music and hobby reading. My current (leisure) read: [Unbowed: A memoir- Wangari Maathai](https://www.goodreads.com/book/show/201111.Unbowed). -->
 
