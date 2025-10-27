@@ -11,14 +11,14 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Service"
-  #   url: /service/    
+  - title: "Service"
+    url: /service/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "News"
-    url: /updates/
+  # - title: "News"
+  #   url: /updates/
     
   - title: "CV"
     url: /cv/
