@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "News"
+permalink: /updates/
 author_profile: true
 redirect_from:
-  - /resume
+  - /updates
 ---
 
 You can view or download my Resume [here](Imanirakiza_Resume_version.pdf).(Last Updated April 2025)
-
