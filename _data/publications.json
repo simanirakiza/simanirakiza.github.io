@@ -1,12 +1,33 @@
 [
     {
+        "title": "Lights, Camera, Voltage: Inferring Electric Grid Voltage Using Image-Based Sensing",
+        "year": "2026",
+        "venue": "Proceedings of the 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '26), pp. 185–195",
+        "authors": "<b>Sylvia Imanirakiza</b>, Alex Yen, Pat Pannuto, Jay Taneja",
+        "link": "https://doi.org/10.1145/3744256.3812553"
+    },
+    {
+        "title": "Graph Neural Networks for Predicting Wastewater Service Type At A Land Parcel Level",
+        "year": "2025",
+        "venue": "NeurIPS Workshop on UrbanAI: Harnessing Artificial Intelligence for Smart Cities",
+        "authors": "<b>Sylvia Imanirakiza</b>, Nana Akua Agyemang Sereboo, Nelson da Luz, Emily Kumpel, Jay Taneja",
+        "link": "https://scholar.google.com/citations?user=GSCldEoAAAAJ&hl=en"
+    },
+    {
+        "title": "Digital Monitoring for Health Facility Emission Prediction and Climate Finance: A Case Study from the Democratic Republic of the Congo",
+        "year": "2025",
+        "venue": "IEEE Global Humanitarian Technology Conference (GHTC)",
+        "authors": "Daniel S. D. Sitompul, Sam B. Miles, Rashmi Varma, <b>Sylvia Imanirakiza</b>, Sanuratu Koroma, Jackson Mughuma, Ryan McCord, Olufolahan Osunmuyiwa, Janvier Kamundala, Ngalula Sandrine Mubenga, Jay Taneja, Daniel M. Kammen, Laura H. Kwong",
+        "link": "https://scholar.google.com/citations?user=GSCldEoAAAAJ&hl=en"
+    },
+    {
         "title": "Time-aware deep neural networks for needle tip localization in 2D ultrasound",
         "year": "2021",
         "venue": "International Journal of Computer Assisted Radiology and Surgery",
         "authors": "Cosmas Mwikirize, Alvin B Kimbowa,<b>Sylvia Imanirakiza</b>, Andrew Katumba, John L Nosher, Ilker Hacihaliloglu",
         "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GSCldEoAAAAJ&citation_for_view=GSCldEoAAAAJ:u-x6o8ySG0sC"
     },
-    
+
     {
         "title": "Development of an e-Health System for Improving Health-Care Access in Developing Countries",
         "year": "2022",
@@ -15,9 +36,9 @@
         "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GSCldEoAAAAJ&citation_for_view=GSCldEoAAAAJ:d1gkVwhDpl0C"
     },
 
-    
+
     {
-        "title": "Development of an electricity distribution expansion plan: a case study of Mbarara City. \ufeff",
+        "title": "Development of an electricity distribution expansion plan: a case study of Mbarara City. ﻿",
         "year": "2022",
         "venue": "Makerere University Dissertations",
         "authors": "<b>Sylvia Imanirakiza</b>, Hilda Evelyn Nakyondwa",

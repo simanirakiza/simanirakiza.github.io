@@ -9,6 +9,16 @@ redirect_from:
 
 ## Updates
 
+05/2026 - The African Graduates and Scholars Association (AGASA) at UMass Amherst received the Outstanding Graduate Student Organization Award, capping off my term as Vice President (2025-2026).
+
+04/2026 - 🚀 Honored to receive the Schlumberger Faculty for the Future Award.
+
+03/2026 - 📄 Our paper, "Lights, Camera, Voltage: Inferring Electric Grid Voltage Using Image-Based Sensing," was published at the 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '26).
+
+09/2025 - 📄 Our paper, "Graph Neural Networks for Predicting Wastewater Service Type At A Land Parcel Level," was presented at the NeurIPS Workshop on UrbanAI: Harnessing Artificial Intelligence for Smart Cities 2025.
+
+07/2025 - 📄 Co-authored "Digital Monitoring for Health Facility Emission Prediction and Climate Finance: A Case Study from the Democratic Republic of the Congo," published at the IEEE Global Humanitarian Technology Conference (GHTC) 2025.
+
 04/2025 - One of my undergraduate mentees, Kenny will be presenting his research findings at the Massachusetts Undergraduate Conference at UMass Amherst, this month. 
 
 04/2025 - Presented my research in the Hardware/Architecture/Systems poster session at the CRA-WP Grad Cohort Workshop in Denver.  
